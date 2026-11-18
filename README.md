@@ -1,4 +1,7 @@
 # Medicines-Dataset-Analysis
+
+**Live app:** https://medicines-dataset-analysis-hdegmjqiyjnqfn7cj4yc43.streamlit.app/
+
 # Medicine Analysis Report
 
 **Dataset:** [Medicines Dataset](https://www.kaggle.com/datasets/drowsyng/medicines-dataset)  
